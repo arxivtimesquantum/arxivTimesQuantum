@@ -10,9 +10,9 @@
 
 # Contents
 
-* [Article Summaries](https://github.com/kenjikun/arXivTimes/issues)
+* [Article Summaries](https://github.com/kenjikun/arxivTimesQuantum/issues)
   * 論文の一言まとめ、また概要をIssueで管理しています。
-* [Tools](https://github.com/kenjikun/arXivTimes/tree/master/tools)
+* [Tools](https://github.com/kenjikun/arxivTimesQuantum/tree/master/tools)
   * 量子アルゴリズムの実装に役立つツールをまとめています。
 
 # How to Contribute
