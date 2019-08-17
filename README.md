@@ -1,6 +1,6 @@
 # arXivTimesQuantum
 
-![icon]("./icon.png")
+![icon](./icon.png)
 
 量子情報関係の論文を調査し、共有するためのリポジトリです。
 
