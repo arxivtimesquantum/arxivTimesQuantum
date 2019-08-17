@@ -1,18 +1,18 @@
 # arXivTimesQuantum
 
-[logo]
+![icon]("./icon.png")
 
 量子情報関係の論文を調査し、共有するためのリポジトリです。
 
 **Follow Me on the Twitter!**
 
-[@kenjikun__](https://twitter.com/kenjikun__)
+[@arxivTimesQ](https://twitter.com/arxivTimesQ)
 
 # Contents
 
-* [Article Summaries](https://github.com/kenjikun/arxivTimesQuantum/issues)
+* [Article Summaries](https://github.com/arxivtimesquantum/arxivTimesQuantum/issues)
   * 論文の一言まとめ、また概要をIssueで管理しています。
-* [Tools](https://github.com/kenjikun/arxivTimesQuantum/tree/master/tools)
+* [Tools](https://github.com/arxivtimesquantum/arxivTimesQuantum/tree/master/tools)
   * 量子アルゴリズムの実装に役立つツールをまとめています。
 
 # How to Contribute
